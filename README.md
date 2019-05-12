@@ -1,2 +1,2 @@
 # useful-R-functions
-A collection of handy R functions
+A repo of handy R functions
